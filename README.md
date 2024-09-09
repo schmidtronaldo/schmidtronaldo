@@ -1,8 +1,8 @@
-# My community profile #DIO 
+# My profile 
 * ✋Olá,tudo bem? 
 * Me chamo Ronaldo Schmidt
-* I am "many" years old
-* Estudo Desenvolvimento de Sistemas desde 2021.
+* I'm many years old
+* Estudante de Analise de Sistemas desde 2021.
 <p>Estou sempre em busca de soluções praticas e inovadoras para atender a demanda que o mercado precisa da melhor forma buscando a melhoria continua e alta expectativa dos clientes.</p>
 </br>
 
