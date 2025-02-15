@@ -1,9 +1,10 @@
 # My profile 
-* ✋Olá,tudo bem? 
-* Me chamo Ronaldo Schmidt
-* I'm many years old
-* Estudante de Analise de Sistemas desde 2021.
-<p>Estou sempre em busca de soluções praticas e inovadoras para atender a demanda que o mercado precisa da melhor forma buscando a melhoria continua e alta expectativa dos clientes.</p>
+* Hy everyone,people? ✋
+* I'm Ronaldo Schmidt
+* Full Stack Developer
+* Systems Development Student since 2021.
+* Focus: Java ,Python ,C++ ,Javascript ,Node,Data Base ,...
+<p>I'm always looking for practical and innovative solutions to meet the demand that the market needs in the best way possible, seeking continuous improvement and high customer expectations.</p>
 </br>
 
 ## Formações:
@@ -13,7 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=schmidtronaldo&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
